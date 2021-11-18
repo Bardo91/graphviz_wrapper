@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xlocale": "cpp"
+    },
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/example/windows"
+}
